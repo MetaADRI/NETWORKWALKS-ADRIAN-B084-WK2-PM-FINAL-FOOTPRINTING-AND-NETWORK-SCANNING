@@ -4,7 +4,7 @@
 
 Hi, I'm Adrian (Bwalya Adrian Mange). This repo has my Week 2 project for the Networkwalks cybersecurity program. In this project I did two things: I footprinted the Networkwalks website using six Kali Linux tools, and I scanned my own home network with Zenmap to see what devices were alive on it.
 
-The full write-up is the Word file in this repo: **[W2-PM-FINAL-Penetration-Testing-Report.docx](W2-PM-FINAL-Penetration-Testing-Report.docx)**. This README is just the quick version, so you don't have to open the report to get the idea.
+The full write-up is the Word file in this repo: **[W2-PM-FINAL-Penetration-Testing-Report.docx](W2-PM-FINAL-Penetration-Testing-Report.pdf)**. This README is just the quick version, so you don't have to open the report to get the idea.
 
 | | |
 |---|---|
