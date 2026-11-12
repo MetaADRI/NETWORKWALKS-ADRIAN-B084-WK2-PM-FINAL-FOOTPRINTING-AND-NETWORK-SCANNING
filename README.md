@@ -68,7 +68,7 @@ My own PC is the last one. Nmap does not list a MAC for the machine it runs on, 
 
 Here is the topology map Zenmap drew, with my PC (localhost) in the middle:
 
-![Zenmap topology](screenshots/09-zenmap-topology.png)
+![Zenmap topology](screenshots/09-zenmap-topology.pdf)
 
 ## What is in this repo
 
