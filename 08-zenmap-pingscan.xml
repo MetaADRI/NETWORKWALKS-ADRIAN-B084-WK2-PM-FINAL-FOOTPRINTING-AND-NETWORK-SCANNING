@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="file:///C:/Program Files (x86)/Nmap/nmap.xsl" type="text/xsl"?><nmaprun args="nmap -sn 192.168.1.0/24" profile_name="Ping scan" scanner="nmap" start="1794411037" startstr="Wed Nov 11 17:30:37 2026" version="7.993" xmloutputversion="1.04"><verbose level="0"></verbose><debugging level="0"></debugging><output type="interactive">Starting Nmap 7.993 ( https://nmap.org ) at 2026-11-11 17:30 +0200
+Nmap scan report for 192.168.1.1
+Host is up (0.0040s latency).
+MAC Address: 74:24:9F:07:EE:3D (Tibro)
+Nmap scan report for 192.168.1.21
+Host is up (0.0046s latency).
+MAC Address: 74:D8:3E:2C:C0:7C (Intel Corporate)
+Nmap scan report for 192.168.1.130
+Host is up (0.10s latency).
+MAC Address: F0:E4:A2:C0:CC:D4 (Huawei Technologies)
+Nmap scan report for 192.168.1.187
+Host is up (0.035s latency).
+MAC Address: 5C:E0:C5:46:7C:7E (Intel Corporate)
+Nmap scan report for 192.168.1.239
+Host is up (0.064s latency).
+MAC Address: A4:02:B9:D4:84:AB (Intel Corporate)
+Nmap scan report for 192.168.1.210
+Host is up.
+Nmap done: 256 IP addresses (6 hosts up) scanned in 7.58 seconds
+</output><host comment=""><status state="up"></status><address addr="192.168.1.1" vendor="" addrtype="ipv4"></address><address addr="74:24:9F:07:EE:3D" vendor="Tibro" addrtype="mac"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="192.168.1.21" vendor="" addrtype="ipv4"></address><address addr="74:D8:3E:2C:C0:7C" vendor="Intel Corporate" addrtype="mac"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="192.168.1.130" vendor="" addrtype="ipv4"></address><address addr="F0:E4:A2:C0:CC:D4" vendor="Huawei Technologies" addrtype="mac"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="192.168.1.187" vendor="" addrtype="ipv4"></address><address addr="5C:E0:C5:46:7C:7E" vendor="Intel Corporate" addrtype="mac"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="192.168.1.239" vendor="" addrtype="ipv4"></address><address addr="A4:02:B9:D4:84:AB" vendor="Intel Corporate" addrtype="mac"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="192.168.1.210" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><runstats><finished time="1794411042" timestr="Wed Nov 11 17:30:42 2026"></finished><hosts up="6" down="250" total="256"></hosts></runstats></nmaprun>
